@@ -11,14 +11,14 @@
 // let d = 'bek japarkulov'
 // console.log(c, d)
 //
-// let e = 5
-// let f = 'E'
-//
-// console.log(f * e)
+let e = 5
+let f = 'E'
+
+console.log(f * e)
 
 let a = 5
 let b = 5
-console.log(a +b)
+console.log(a + b)
 
 let c = 2
 let d = undefined
